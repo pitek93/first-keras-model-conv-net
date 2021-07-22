@@ -1,2 +1,1 @@
-# conv-net-keras
-handwritten letters recognition using deep learning architecture
+# first-keras-model-conv-net
